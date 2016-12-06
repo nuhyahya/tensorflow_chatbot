@@ -36,6 +36,10 @@ then run the code like so
 
 ``python execute.py``
 
+Usage
+===========
+
+http://neuralconvo.huggingface.co/
 
 Challenge
 ===========
