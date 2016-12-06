@@ -36,9 +36,10 @@ then run the code like so
 
 ``python execute.py``
 
-Usage
+Example
 ===========
 
+Live sequence to sequence chatbot demo:
 http://neuralconvo.huggingface.co/
 
 Challenge
